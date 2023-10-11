@@ -24,7 +24,7 @@
 <br>
 <hr>
 
-<h3>Other hobbies I have outside Data Science/Analytics and deriving analytical and intelligence solutions</h3>
+<h3>Other hobbies I have outside Data Science/ Business Analytics</h3>
 <ul>
     <li> Playing basketball 🏀</li>
     <li> Working out 🏋️‍♂️ </li>
