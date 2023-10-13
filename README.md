@@ -7,8 +7,8 @@
 </p>
 
 <!--- 👀 I’m interested in --->
-- 🌱 I’m currently pursuing a Master's Degree in Business Analytics and Data Science at Oklahoma State University.
-- 🌟 Summary : I am a very enthusiastic learner, and I enjoy using my skills to contribute to the exciting advances that I chance upon in my daily life. My research and professional experience have given me the ability to work and perform effectively in a team setting, whether as a leader or a supportive member. I also possess the analytical and statistical abilities required to explore and solve business challenges, manage a wide range of expectations, and meet targets to the highest possible standard.
+- 🌱 I’m a Master's Degree graduate in Business Analytics and Data Science from Oklahoma State University.
+- 🌟 Summary: I am a very enthusiastic learner, and I enjoy using my skills to contribute to the exciting advances that I chance upon in my daily life. My research and professional experience have given me the ability to work and perform effectively in a team setting, whether as a leader or a supportive member. I also possess the analytical and statistical abilities required to explore and solve business challenges, manage a wide range of expectations, and meet targets to the highest possible standard.
 
 <h3>My Skills include 👨‍💻</h3>
 <div>
